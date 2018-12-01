@@ -1,6 +1,3 @@
-**Note**
-Rename this file to README.md  
-When viewing on Github, click the Raw button to view the unrendered file.
 
 # Heap Sort
 
