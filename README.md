@@ -12,3 +12,5 @@ Happy Open Sourcing!
 
 - [Maximum of Array](algorithms/maximum_of_array)
 - [Heap Sort](algorithms/heap_sort)
+- [Quick Sort](algorithm/quick_sort)
+
