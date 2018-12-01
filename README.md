@@ -11,3 +11,4 @@ Happy Open Sourcing!
 ## List of all Algorithms
 
 - [Maximum of Array](algorithms/maximum_of_array)
+- [Heap Sort](algorithms/heap_sort)
