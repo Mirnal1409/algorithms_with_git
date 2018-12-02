@@ -17,3 +17,4 @@ Happy Open Sourcing!
 - [Quick Sort](algorithm/quick_sort)
 - [binomialCoefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
+- [Graph Coloring using backtracking](algorithms/graph_coloring.c)
